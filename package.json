@@ -1,0 +1,15 @@
+{
+  "name": "js-eslint-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "prettier": "^2.4.1"
+  }
+}
